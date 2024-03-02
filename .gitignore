@@ -1,0 +1,8 @@
+.idea
+.vscode
+venv
+data/*.db
+dist/*.html
+dist/*.xml
+dist/sitemap.xml
+__pycache__
